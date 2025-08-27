@@ -68,4 +68,4 @@ enableEmoji = true
       type = 'fragments'
       weight = 10
 [params]
-  description = "My awesome website built with Hugo and Blowfish"
+  description = "My Fawesome website built with Hugo and Blowfish"
