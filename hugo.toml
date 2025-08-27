@@ -2,8 +2,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/getting-started/
 
- theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://hameza123.github.io/mira/"
+theme = "blowfish" # UNCOMMENT THIS LINE
+baseURL = "https://mira.github.io/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -67,3 +67,5 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+[params]
+  description = "My awesome website built with Hugo and Blowfish"
